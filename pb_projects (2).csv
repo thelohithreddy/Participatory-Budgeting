@@ -1,0 +1,22 @@
+Project ID,Project Name,Cost (₹ crore),Region,Category
+P1,Mumbai Metro Line 6,80,Mumbai,Transport
+P2,Rural Healthcare Clinics,30,Vidarbha,Healthcare
+P3,Pune Water Supply Upgrade,45,Pune,Water
+P4,Nagpur-Mumbai Expressway,120,Statewide,Transport
+P5,Farmer Solar Pump Subsidies,25,Marathwada,Agriculture
+P6,Coastal Erosion Control,15,Konkan,Environment
+P7,Tribal School Upgrades,20,Gadchiroli,Education
+P8,Mumbai Slum Sanitation,50,Mumbai,Sanitation
+P9,Aurangabad IT Hub,60,Aurangabad,Employment
+P10,Nashik Wine Tourism Roads,35,Nashik,Tourism
+P11,Amravati Women’s Hostels,18,Amravati,Social Welfare
+P12,Thane Flood Prevention,40,Thane,Infrastructure
+P13,Kolhapur Textile Parks,55,Kolhapur,Industry
+P14,Latur Drought Resilience,28,Latur,Water
+P15,Navi Mumbai Airport Roads,75,Navi Mumbai,Transport
+P16,Smart Classrooms for Rural Schools,22,Vidarbha,Education
+P17,Green Belt Development,26,Pune,Environment
+P18,Skill Training for Youth,33,Nagpur,Employment
+P19,Rural Internet Access,37,Marathwada,Infrastructure
+P20,Urban Tree Plantation,12,Mumbai,Environment
+P21,Cultural Center Restoration,19,Nashik,Tourism
